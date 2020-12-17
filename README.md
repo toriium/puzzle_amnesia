@@ -1,5 +1,5 @@
 # Puzzle-Amnesia
-solução de puzzle do jogo amnesia usando programação
+Solução de puzzle do jogo amnesia usando programação
 
 Esse script foi feito para solucionar um desafio, que é feito em um jogo (amnesia)
 ele se baseava em: existiam números na parte de cima e na parte de baixo , entre eles havia uma 
@@ -15,7 +15,7 @@ os número eram :
 
 1  5  6  5  2  2
 
-a ordem certa é:
+A ordem certa é:
 
 005120 = 8
 
@@ -26,6 +26,6 @@ a ordem certa é:
 Me baseando nisso, elaborei um programa que realiza esse processo sozinho, testando todas
 as possiblidades possiveis.
 
-nele eu considero os numeros não usados como zero e os que são usados continuam iguais
+Nele eu considero os numeros não usados como zero e os que são usados continuam iguais
 então fiz um codigo que fizesse varios binarios em uma lista e depois essa lista 
 seria multiplicada nos valores das listas problema 
