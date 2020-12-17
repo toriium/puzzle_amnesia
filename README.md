@@ -1,5 +1,5 @@
 # Puzzle-Amnesia
-Solução de puzzle do jogo amnesia usando programação;
+Solução de puzzle do jogo amnesia usando programação.
 
 Esse script foi feito para solucionar um desafio, que é feito em um jogo (amnesia)
 ele se baseava em: existiam números na parte de cima e na parte de baixo , entre eles havia uma 
