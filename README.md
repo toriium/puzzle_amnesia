@@ -7,7 +7,6 @@ alavanca, se a alavanca estivesse apontada para parte de cima o numero de cima s
 escolhido, se estivesse para a parte de baixo o numero de baixo 
 seria escolhido, no final os números que ficaram em cima 
 deveriam se somar e dar o resultado 8 e os debaixo também.
-https://github.com/JORGE-PINHEIRO/Puzzle_Amnesia/issues/1#issue-770066946
 
 os número eram :
 
