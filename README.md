@@ -11,9 +11,7 @@ deveriam se somar e dar o resultado 8 e os debaixo também
 os número eram :
 
 3  3  5  1  2  4
-
 |  |  |  |  |  |
-
 1  5  6  5  2  2
 
 a ordem certa é:
